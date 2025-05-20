@@ -1,0 +1,26 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="359dp"
+        android:layout_height="296dp"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="200dp"
+        android:contentDescription="@string/grand_tax_logo"
+        android:scaleType="fitCenter"
+        android:src="@drawable/splash_logo" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="195dp"
+        android:layout_height="62dp"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="76dp"
+        android:contentDescription="@string/secondary_logo"
+        android:scaleType="fitCenter"
+        android:src="@drawable/logo_2" />
+
+</FrameLayout>

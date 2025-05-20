@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grand Tax App</string>
+    <string name="grand_tax_logo">Grand Tax Logo</string>
+    <string name="secondary_logo">Secondary Logo</string>
+</resources>
